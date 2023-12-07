@@ -1,2 +1,2 @@
-# testing
+# Learning Django
 Testing this project

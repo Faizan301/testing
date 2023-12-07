@@ -1,2 +1,2 @@
 # testing
-testing this project
+Testing this project
